@@ -35,7 +35,7 @@ will make the model handle more variance in the data.
 
 Future Scope- 
 -Create a front end(HTML,CSS,Javascript) and backend file for Web Application
--Host the server from AWS and deploy it into production where it can be used for all
+-Host the server from AWS and deploy it into production where it can be used for all.
 
   
   
